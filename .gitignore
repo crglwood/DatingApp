@@ -450,3 +450,6 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 appsettings.json
+.vscodeold/launch.json
+.vscodeold/tasks.json
+client/package-lock.json
