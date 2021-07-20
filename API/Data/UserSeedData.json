@@ -11,7 +11,7 @@
         "Interests": "Aliqua laboris id voluptate sunt id aliqua aliquip.",
         "City": "Echo",
         "Country": "Chile",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/88.jpg",
                 "IsMain": true
@@ -30,7 +30,7 @@
         "Interests": "Commodo eiusmod incididunt velit dolor cupidatat consectetur et ex ullamco reprehenderit Lorem eu enim enim.",
         "City": "Orason",
         "Country": "Solomon Islands",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/7.jpg",
                 "IsMain": true
@@ -49,7 +49,7 @@
         "Interests": "Incididunt mollit non eiusmod incididunt excepteur commodo sunt sunt proident velit non culpa aute ullamco.",
         "City": "Chamberino",
         "Country": "Dominica",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/85.jpg",
                 "IsMain": true
@@ -68,7 +68,7 @@
         "Interests": "Magna magna proident ut pariatur consequat tempor cillum ad.",
         "City": "Baker",
         "Country": "Lithuania",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/77.jpg",
                 "IsMain": true
@@ -87,7 +87,7 @@
         "Interests": "Elit in velit officia commodo magna excepteur eiusmod.",
         "City": "Brady",
         "Country": "Grenada",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/women/70.jpg",
                 "IsMain": true
@@ -106,7 +106,7 @@
         "Interests": "Consectetur laboris eu ut veniam fugiat.",
         "City": "Manchester",
         "Country": "Argentina",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/14.jpg",
                 "IsMain": true
@@ -125,7 +125,7 @@
         "Interests": "Officia do minim cupidatat veniam commodo.",
         "City": "Lewis",
         "Country": "Niue",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/1.jpg",
                 "IsMain": true
@@ -144,7 +144,7 @@
         "Interests": "Elit proident excepteur eiusmod labore laborum nostrud veniam culpa enim enim culpa.",
         "City": "Wiscon",
         "Country": "India",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/95.jpg",
                 "IsMain": true
@@ -163,7 +163,7 @@
         "Interests": "Ullamco officia mollit dolor cupidatat tempor laborum consectetur sunt aute esse laborum nisi.",
         "City": "Steinhatchee",
         "Country": "Somalia",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/65.jpg",
                 "IsMain": true
@@ -182,7 +182,7 @@
         "Interests": "Adipisicing et ipsum sint sunt labore tempor ea sit.",
         "City": "Lavalette",
         "Country": "Croatia (Hrvatska)",
-        "Photo": [
+        "Photos": [
             {
                 "Url": "https://randomuser.me/api/portraits/men/2.jpg",
                 "IsMain": true
