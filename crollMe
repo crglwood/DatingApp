@@ -1,0 +1,119 @@
+[33mcommit d338df002c323e9e9a1fc1a754eeb0b5d5ba92e3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/FixMessages[m[33m, [m[1;32mFixMessages[m[33m)[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 20 17:07:25 2021 +0200
+
+    Applied fix
+
+[33mcommit 481ad45921f30a3dd08f5bc67b7004f54cc14aa2[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 20 16:50:34 2021 +0200
+
+    Heroku updates
+
+[33mcommit 0065256141f2e9cb5a962b07e2321531d0a2074e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 20 15:11:27 2021 +0200
+
+    Section 19 pre switch to postgres
+
+[33mcommit 9a80535b12cbfbfd0728c1a844bd0a1b9aa5e938[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 20 13:16:35 2021 +0200
+
+    End Of Section 18
+
+[33mcommit ad07b6041a78a61c1cab155271a89f933d10a573[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 20 10:08:38 2021 +0200
+
+    End Of Section 17
+
+[33mcommit 9fd685adcf27a591156e1f18efd21c5b606679cd[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Fri Jul 16 13:38:45 2021 +0200
+
+    End Of Section 16
+
+[33mcommit 21c8c96e0e330190158ed7591a18aea207b9c4c2[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Wed Jul 14 18:19:29 2021 +0200
+
+    End Of Section 15
+
+[33mcommit c5864c6bc8a5faf6b221c432909512f7b66ca46e[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 13 14:39:13 2021 +0200
+
+    End of Section 14
+
+[33mcommit edd727e23e5749fe3f8fad0cfcb14fd83b46952d[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Mon Jul 12 13:30:08 2021 +0200
+
+    End Of Section 13
+
+[33mcommit 1810d275db5dd7f68ea07aa9ad42f48a55d2ac35[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Sun Jul 11 11:36:56 2021 +0200
+
+    End Of Section 12
+
+[33mcommit 67121829ea89a8428754a54f185bf6a0459f0013[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Sat Jul 10 16:57:33 2021 +0200
+
+    En Of Section 11
+
+[33mcommit 8d1fc6bcaefe67ccce6a1cf643ff4db8d04897c2[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Fri Jul 9 15:36:14 2021 +0200
+
+    End Of Section 10
+
+[33mcommit 9446ea5ed9231135256fb9719b91bcc1a3d77122[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Fri Jul 9 10:42:26 2021 +0200
+
+    End Of Section 9
+
+[33mcommit 566fa7d4cf1c56e2aa724763526bb36338bb3b28[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Wed Jul 7 16:40:02 2021 +0200
+
+    End Of Section 8
+
+[33mcommit a58134e31b336de51507f697978e0977fd29516a[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Wed Jul 7 11:02:02 2021 +0200
+
+    End of Section 7
+
+[33mcommit b94bdff53233b49d0855fb44834764a20da137dd[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 6 18:12:15 2021 +0200
+
+    End of Section 6
+
+[33mcommit ae4d18cd8877b9daeb9539f5587c0d0352464aa4[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Tue Jul 6 14:17:37 2021 +0200
+
+    End of Section 5
+
+[33mcommit a7859c380543a2bb1d300deec47d832080729cb4[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Sat Jul 3 12:28:42 2021 +0200
+
+    End of Section 4
+
+[33mcommit b3abba1a51f3111de00e15cbf10404266c9fdc7b[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Fri Jul 2 16:38:12 2021 +0200
+
+    End of Section 3
+
+[33mcommit 5571c13e9136e46ecca49ae2e6bf130ba2b2ec38[m
+Author: Craig Wood <craig.wood@nosila.co.za>
+Date:   Fri Jul 2 11:21:22 2021 +0200
+
+    End of section 2
